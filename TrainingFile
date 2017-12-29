@@ -1,0 +1,128 @@
+-----------------------------------------------------
+ 
+credit score: 500-900
+income: 30k-90k
+age: 30-80
+sex: male, female
+marital status: single, divorced, married
+class: low risk, medium risk, high risk, undetermined
+
+------------------------------------------------------
+
+training data
+ 
+613 80 65 male single         high
+852 83 44 male divorced       low
+710 35 60 male married        low
+630 71 37 male single         high
+585 68 55 female married      medium
+810 48 52 female single       medium
+535 64 62 male divorced       undetermined
+560 75 32 male married        high
+661 52 57 female divorced     undetermined
+556 84 69 female single       undetermined  
+725 48 77 female single       low
+671 89 55 male married        high
+583 54 46 female divorced     undetermined
+805 66 35 male married        low
+615 35 72 female divorced     undetermined
+655 55 79 male married        medium
+622 52 60 male single         high
+860 35 65 female divorced     low
+781 50 63 male single         low
+760 41 47 female married      medium
+823 36 72 male married        low
+870 45 30 female married      medium
+545 35 76 female single       high
+512 45 68 female married      medium
+558 51 51 male divorced       undetermined
+750 40 79 male single         low
+634 46 38 male divorced       undetermined
+510 64 38 male single         high
+562 53 46 male single         high
+535 32 74 female married      medium
+603 78 38 female divorced     undetermined  
+551 47 42 female married      medium
+676 61 55 female single       high
+516 62 68 male divorced       undetermined
+644 58 37 male married        medium
+652 31 33 female divorced     undetermined
+880 49 70 female divorced     low
+595 75 44 male divorced       low
+689 71 32 female single       undetermined  
+710 37 58 male divorced       medium
+535 86 61 male divorced       high
+560 72 48 female divorced     low 
+570 42 56 female single       high
+647 87 42 female single       undetermined  
+610 82 55 female married      undetermined  
+672 34 33 male married        medium
+760 65 51 female divorced     high
+743 81 47 male single         low
+553 33 72 male single         high
+842 41 32 female divorced     medium
+674 68 78 female divorced     undetermined
+735 32 45 male single         medium
+751 33 37 male single         medium
+670 75 77 female married      undetermined  
+650 78 47 male divorced       high
+620 62 64 male married        medium
+760 35 56 male married        high
+823 40 31 female divorced     medium
+510 77 57 male single         high
+730 53 72 male single         low
+810 55 56 male married        low
+854 44 41 female married      medium
+539 85 72 male married        high
+555 77 50 female married      undetermined  
+616 68 44 male single         high
+720 87 77 male single         low
+776 47 64 male married        low
+651 47 34 female single       high
+611 63 48 female married      medium
+770 73 37 female single       low
+521 89 65 female divorced     undetermined     
+584 72 77 male single         high
+585 83 57 female single       undetermined  
+752 70 75 female divorced     low
+830 32 68 female single       high
+870 79 60 female married      low
+566 37 51 male married        medium
+605 55 63 male single         high
+875 43 75 female divorced     low
+562 44 41 male divorced       undetermined
+
+---------------------------------------------------------
+
+validation data
+
+810 80 40 male single         low
+800 35 75 male divorced       medium
+530 84 37 female married      undetermined
+830 42 72 female married      low
+550 80 70 male single         high
+665 45 37 female divorced     undetermined
+750 65 50 female married      low
+650 86 53 male married        high
+730 45 54 female married      medium
+670 78 58 female divorced     undetermined
+660 52 32 male single         high
+850 37 32 male divorced       medium
+590 35 75 female single       high
+525 38 66 female married      medium
+535 68 78 male divorced       undetermined
+
+---------------------------------------------------------
+
+test data
+
+850 85 70 female married
+600 76 40 male divorced 
+610 88 75 female single
+540 66 43 male single
+720 40 65 female single
+580 64 52 male married
+800 25 45 female divorced
+620 32 69 male divorced
+
+----------------------------------------------------------
